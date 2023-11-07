@@ -15,7 +15,7 @@ var config = {
     "logout": "true",
     "logout-notify": "true",
     "init-notify": "true",
-    "embed-color": 4873727,
+    "embed-color": 4873726,
 
     creator: "%NAME_CREATOR%",
     transfer_link: `%TRANSFER_URL%`,
